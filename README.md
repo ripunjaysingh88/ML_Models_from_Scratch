@@ -1,0 +1,1 @@
+# Vectorized_K_means_Numpy
