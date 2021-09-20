@@ -1,1 +1,1 @@
-# Vectorized_K_means_Numpy
+# Building Ml models from scratch using python and numpy.
