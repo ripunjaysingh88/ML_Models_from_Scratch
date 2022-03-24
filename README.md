@@ -1,1 +1,1 @@
-# Building ML models from scratch using python and numpy.
+# Using Numpy and Python to build few ML models from scratch.
